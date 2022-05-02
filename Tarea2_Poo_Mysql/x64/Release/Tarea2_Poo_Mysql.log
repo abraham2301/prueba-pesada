@@ -1,0 +1,10 @@
+﻿  Menu.cpp
+C:\Users\Usuario\Desktop\2022\Segundo año UMG\Programacion 1\Tareas\Tarea 2  POO y Mysql\Tarea2_Poo_Mysql\Tarea2_Poo_Mysql\Menu.h(214,7): warning C4101: 'q_estado': variable local sin referencia
+  Tarea2_Poo_Mysql.cpp
+C:\Users\Usuario\Desktop\2022\Segundo año UMG\Programacion 1\Tareas\Tarea 2  POO y Mysql\Tarea2_Poo_Mysql\Tarea2_Poo_Mysql\Menu.h(214,7): warning C4101: 'q_estado': variable local sin referencia
+  Generando código
+  2 of 192 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Tarea2_Poo_Mysql.vcxproj -> C:\Users\Usuario\Desktop\2022\Segundo año UMG\Programacion 1\Tareas\Tarea 2  POO y Mysql\Tarea2_Poo_Mysql\x64\Release\Tarea2_Poo_Mysql.exe
